@@ -1,0 +1,21 @@
+{
+  "name": "my-bot",
+  "version": "0.0.0",
+  "description": "MyBot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "canvas": "^2.4.1",
+    "javascript-barcode-reader": "^0.4.12",
+    "jimp": "^0.6.4",
+    "jsqr": "^1.2.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "qrcode-reader": "^1.0.4",
+    "quagga": "^0.12.1",
+    "request": "^2.88.0",
+    "restify": "^8.3.1"
+  }
+}
